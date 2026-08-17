@@ -1,11 +1,5 @@
-<picture> <source media="(prefers-color-scheme:dark)" srcset="https://raw.githubusercontent.com/marigms/marigms/main/assets/banner-dark.png">
-<source media="(prefers-color-scheme:light)" srcset="https:raw.githubusercontent.com/marigms/marigms/main/assets/banner-light.png">
-<img alt="Banner" src="https://raw.githubusercontent.com/marigms/marigms/main/assets/banner-light.png"> </picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/assets/banner-dark.png"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/assets/banner-light.png"> <img alt="Banner" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/assets/banner-light.png"> </picture> <h1 align="center"> Welcome, I'm Maria 🍀</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Glad+you're+here!" alt="Typing SVG" /> </a> </p> <p align="center"> <a
 
-<h1 align="center"> Hi, I'm Maria 🌸 </h1>
-<p align="center"> <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=D0FFA3&width=435&lines=Glad+you're+here!+" alt="Typing SVG" /></a>">
-
-<p align="center"><a href="https:">
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/mariag0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mariag0" height="30" width="40" /></a>
