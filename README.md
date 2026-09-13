@@ -1,13 +1,50 @@
-<h1 align="center"> Welcome, I'm Maria 🍀</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=21F1A8&center=true&vCenter=true&width=435&lines=Glad+you're+here!" alt="Typing SVG" /> </a> </p> <p align="center"> 
+<div align="center">
 
-💡 Explorando o universo da tecnologia.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7CAD0,100:C77DFF&height=180&section=header&text=&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-Technology • Learning • Building 
+### 💡 Explorando o universo da tecnologia
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mariag0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mariag0" height="30" width="40" /></a>
+`Analytics` • `Learning` • `Building`
+
+<br>
+
+</div>
+
+---
+
+<h3 align="center">🌸 Sobre mim</h3>
+
+<p align="center">
+Apaixonada por dados e cibersegurança, transformo números em insights<br>
+e vejo cada rede como um quebra-cabeça a ser protegido. 🔐📊<br>
+<br>
+Protegendo dados, decifrando padrões, sempre em busca da próxima vulnerabilidade a corrigir.
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+---
+
+<h3 align="center">💌 Conecte-se comigo</h3>
+<div align="center">
+  <a href="www.linkedin.com/in/mariag0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" height="40" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">🛠️ Linguagens e Ferramentas </h3> <p align="center"> 
+<img src="https://img.shields.io/badge/Python-C77DFF?style=for-the-badge&logo=python&logoColor=white" /> <img 
+src="https://img.shields.io/badge/MySQL-FFC8DD?style=for-the-badge&logo=mysql&logoColor=6A040F" /> <img 
+<img src="https://img.shields.io/badge/Git-C77DFF?style=for-the-badge&logo=git&logoColor=white" /> <img  
+src="https://img.shields.io/badge/Linux-F7CAD0?style=for-the-badge&logo=linux&logoColor=6A040F" /> <img 
+src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-E0AAFF?style=for-the-badge&logo=cisco&logoColor=6A040F" /> <img 
+src="https://img.shields.io/badge/Wireshark-E0AAFF?style=for-the-badge&logo=wireshark&logoColor=6A040F" /> <img 
+src="https://img.shields.io/badge/Figma-F7CAD0?style=for-the-badge&logo=figma&logoColor=6A040F" /> </p>
+
+<div align="center">
+
+💗☕🧑‍💻
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C77DFF,100:F7CAD0&height=100&section=footer" />
+
+</div>
